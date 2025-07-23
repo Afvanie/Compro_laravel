@@ -102,8 +102,8 @@
       <section id="category">
         <div class="container wow fadeInUp">
           <div class="section-header">
-            <h3 class="section-title">Blog Kami</h3>
-            <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+            <h3 class="section-title">Katalog Kami</h3>
+            <p class="section-description">Anda dapat menemukan detail dari produk kami disini</p>
           </div>
           <div class="row">
   
@@ -128,8 +128,8 @@
       <section id="contact" style="padding-bottom:85px">
         <div class="container wow fadeInUp">
           <div class="section-header">
-            <h3 class="section-title">Galeri</h3>
-            <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+            <h3 class="section-title">Galeri Produksi</h3>
+            <p class="section-description">Dokumentasi dari contoh produk yang kami tawarkan</p>
           </div>
         </div>
   

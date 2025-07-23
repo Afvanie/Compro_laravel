@@ -12,8 +12,8 @@
 @endsection
 
 @section('hero')
-    <h1>Contact Jogja-Travel</h1>
-    <h2>Bergabung dan liburan bersama Kami</h2>
+    <h1>Contact Nusantara Charcoal</h1>
+    <h2>Mari konsultasi dengan kami</h2>
 @endsection
 
 @section('content')
@@ -22,7 +22,7 @@
     <div class="container wow fadeInUp">
       <div class="section-header">
         <h3 class="section-title">Contact</h3>
-        <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        <p class="section-description">Segera konsultasikan kebutuhan arang anda kepada kami</p>
       </div>
     </div>
 
@@ -36,18 +36,18 @@
           <div class="info">
             <div>
               <i class="fa fa-map-marker"></i>
-              <p>Gedong Tengen,
-                <br>Daerah Istimewa Yogyakarta</p>
+              <p>Surabaya - Bondowoso,
+                <br>Jawa Timur</p>
             </div>
 
             <div>
               <i class="fa fa-envelope"></i>
-              <p>danyadhi4149@gmail.com</p>
+              <p>abi@gmail.com</p>
             </div>
 
             <div>
               <i class="fa fa-phone"></i>
-              <p>0831-6179-3990</p>
+              <p>0821-4383-7734</p>
             </div>
           </div>
 
@@ -82,7 +82,11 @@
                 <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                 <div class="validation"></div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center">
+                <a href="https://wa.me/6282143837734?text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20produk%20Anda" target="_blank">
+                  <button type="button">Hubungi via WhatsApp</button>
+                </a>
+              </div>
             </form>
           </div>
         </div>

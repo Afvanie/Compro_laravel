@@ -23,8 +23,8 @@
 @endsection
 
 @section('hero')
-    <h1>Destinasi Jogja-Travel</h1>
-    <h2>Cek semua destinasi-destinasi yang dapat anda kunjungi untuk liburan anda</h2>
+    <h1>PRODUK KAMI</h1>
+    <h2>Cek semua produk kami untuk kebutuhan arang anda dengan kualitas Terbaik</h2>
 @endsection
 
 @section('content')
@@ -37,8 +37,8 @@
 
               {{-- <div class=" wow fadeInUp">
                 <div class="section-header">
-                  <h3 class="section-title">Daftar Destinasi</h3>
-                  <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                  <h3 class="section-title">Daftar Produk</h3>
+                  <p class="section-description">Cek semua produk kami untuk kebutuhan arang anda dengan kualitas Terbaik</p>
                 </div>
               </div>
               <div class=" wow fadeInUp">
