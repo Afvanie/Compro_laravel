@@ -21,8 +21,8 @@
 @endsection
 
 @section('hero')
-    <h1>Welcome to Jogja-Travel</h1>
-    <h2>Kami adalah agen travel terpercaya dan jaminan layanan perencanaan wisata yang mudah dan murah</h2>
+    <h1>Nusantara Charcoal</h1>
+    <h2>Arang Berkualitas Tinggi dari Nusantara, Menghangatkan Dunia dengan Sentuhan Alam Asli Indonesia</h2>
     <a href="#about" class="btn-get-started">Get Started</a>
 @endsection
 
@@ -51,28 +51,30 @@
         <div class="container wow fadeIn">
           <div class="section-header">
             <h3 class="section-title">Mengapa Memilih Kami?</h3>
-            <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+            <p class="section-description">Beberapa alasan mengapa anda harus menyerahkan kebutuhan arang anda kepada kami</p>
           </div>
           <div class="row">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
               <div class="box">
                 <div class="icon"><i class="fa fa-shield"></i></div>
-                <h4 class="title">Keamanan Berkendara</h4>
-                <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                <h4 class="title">Kualitas Terbaik</h4>
+                <p class="description">Kami hanya memproduksi arang kami dengan bahan mentah kualitas tinggi, dengan inovasi dalam produksi manajemen sistem untuk mengoptimalisasi hasil terbaik yang bisa didapatkan</p>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
               <div class="box">
                 <div class="icon"><i class="fa fa-money"></i></div>
-                <h4 class="title">Harga Ekonomis</h4>
-                <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                <h4 class="title">Harga Bersaing</h4>
+                <p class="description">Dengan sistem produksi yang efisien dan distribusi langsung dari pabrik, kami dapat menawarkan harga yang lebih kompetitif tanpa mengorbankan kualitas. Anda mendapatkan arang premium, dengan harga yang tetap ramah di kantong. Solusi terbaik untuk hemat biaya, tanpa kompromi.
+
+</p>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
               <div class="box">
                 <div class="icon"><i class="fa fa-thumbs-up"></i></div>
-                <h4 class="title">Kenyamanan Pelanggan</h4>
-                <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                <h4 class="title">Kepuasan Pelanggan</h4>
+                <p class="description">Kami mengutamakan pelayanan cepat, responsif, dan transparan. Mulai dari pemesanan, pengiriman, hingga after-sales, tim kami siap mendampingi Anda. Karena bagi kami, penjualan bukan sekadar transaksi — tapi awal dari kerja sama jangka panjang.</p>
               </div>
             </div>
           </div>
@@ -85,8 +87,8 @@
         <div class="container wow fadeIn">
           <div class="row">
             <div class="col-lg-9 text-center text-lg-left">
-              <h3 class="cta-title">Bergabung dan Bepergian Bersama Kami</h3>
-              <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <h3 class="cta-title">KONSULTASI PRODUK GRATIS!</h3>
+              <p class="cta-text">Kami akan dengan senang hati menjawab pertanyaan Anda atau membantu menjawab pertanyaan apa pun yang mungkin Anda miliki!</p>
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
               <a class="cta-btn align-middle" href="#">Contact</a>
